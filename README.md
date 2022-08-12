@@ -4,6 +4,7 @@
 - 👯 Procuro uma vaga para poder aprimorar ainda mais meus conhecimentos. 
 - 📫 Contate-me no email: dev.johnfigueiredo@gmail.com
 - 😄 Pronomes: ele/dele.
+- 👨🏽‍💻 Finalizei recentemente o BootCamp Full-Stack do Santander!
 
 <div align="center">
   <a href="https://github.com/JohnFigueiredu">
