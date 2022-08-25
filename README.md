@@ -5,6 +5,7 @@
 - 📫 Contate-me no email: dev.johnfigueiredo@gmail.com
 - 😄 Pronomes: ele/dele.
 - 👨🏽‍💻 Finalizei recentemente o BootCamp Full-Stack do Santander!
+- 🧠 Iniciando estudos na One Bit Code Full-Stack!
 
 <div align="center">
   <a href="https://github.com/JohnFigueiredu">
