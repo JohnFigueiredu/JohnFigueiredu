@@ -1,11 +1,10 @@
 ### Olá, eu sou o João Figueiredo!
 
-- 🌱 Estudando HTML, CSS, JavaScript, TypeScript, Angular e Node.( Full-Stack )
+- 🌱 Estudando Flutter, mas contenho alguns conhecimentos em HTML, CSS e JavaScript
 - 👯 Procuro uma vaga para poder aprimorar ainda mais meus conhecimentos. 
-- 📫 Contate-me no email: dev.johnfigueiredo@gmail.com
-- 😄 Pronomes: ele/dele.
-- 👨🏽‍💻 Finalizei recentemente o BootCamp Full-Stack do Santander!
-- 🧠 Iniciando estudos na One Bit Code Full-Stack!
+- 📫 Contate-me no email: john.figueireduu@gmail.com
+- 👨🏽‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🧠 Curso de Defesa Cibernetica Realizado na Trend Micro, o CPTIS 7.
 
 <div align="center">
   <a href="https://github.com/JohnFigueiredu">
